@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.exe
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.deps.json
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.runtimeconfig.json
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.dll
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\ref\Greadingif.dll
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\bin\Debug\net5.0\Greadingif.pdb
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.dll
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\ref\Greadingif.dll
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.pdb
+C:\Users\Ivan\source\repos\Greadingif\Greadingif\obj\Debug\net5.0\Greadingif.genruntimeconfig.cache
